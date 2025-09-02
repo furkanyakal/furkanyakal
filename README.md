@@ -28,6 +28,8 @@ I'm a software developer based in Munich.
 📈 &nbsp;Academic background with undergraduate degrees in Computer Science and Industrial Engineering\
 📧 &nbsp;Feel free to reach out at furkan.yakal.master@gmail.com
 
+
+<!--
 ### 🛠 &nbsp;Tech Stacks
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=FFE873)&nbsp;
@@ -69,9 +71,12 @@ I'm a software developer based in Munich.
 </a>
 </p>
 
+-->
+
 ### 🌐 &nbsp;Connect with Me
 
 <p align="center"> 
-<a href="https://linkedin.com/in/furkan-yakal"><img src="https://img.shields.io/badge/-Furkan%20Yakal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://furkanyakal.github.io/"><img src="https://img.shields.io/badge/-Personal%20Website-000000?style=flat&logo=Safari&logoColor=white"/></a>
+<a href="https://linkedin.com/in/furkan-yakal"><img src="https://img.shields.io/badge/-Furkan%20Yakal-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:furkan.yakal.master@gmail.com"><img src="https://img.shields.io/badge/-furkan.yakal.master@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
