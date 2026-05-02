@@ -5,9 +5,9 @@
 <h3 align="center">🤝 &nbsp;Connect with me</h3>
 
 <p align="center">
-  <a href="https://furkanyakal.com/" target="_blank"><img height="40" src="https://api.iconify.design/logos/safari.svg?height=40" alt="Website"/></a>
+  <a href="https://furkanyakal.com/" target="_blank"><img height="30" src="https://api.iconify.design/logos/safari.svg?height=30" alt="Website"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:furkan.yakal.master@gmail.com"><img height="40" src="https://api.iconify.design/logos/google-gmail.svg?height=40" alt="Email"/></a>
+  <a href="mailto:furkan.yakal.master@gmail.com"><img height="30" src="https://api.iconify.design/logos/google-gmail.svg?height=30" alt="Email"/></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/furkan-yakal" target="_blank"><img height="40" src="https://api.iconify.design/logos/linkedin-icon.svg?height=40" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/furkan-yakal" target="_blank"><img height="30" src="https://api.iconify.design/logos/linkedin-icon.svg?height=30" alt="LinkedIn"/></a>
 </p>
